@@ -76,6 +76,7 @@
   と入力する 
 
   IdPでの認証に移動し、認証後以下のように画面が表示されれば成功である。
+![image](https://user-images.githubusercontent.com/52463373/151764085-5f8170ac-f4bd-4698-ad8c-dd61412edb04.png)
 
 ## 注意事項
 
